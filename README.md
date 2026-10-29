@@ -184,6 +184,11 @@ services:
     container_name: registry-server
 ```
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Docker%20Registry%20UI/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="36"></a>
+<a href="https://zeabur.com/templates/RGYTTT"><img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="36"></a>
+
 ## Using CORS
 
 :warning: Before posting issues about CORS, please read the and all created issues.
